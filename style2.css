@@ -470,7 +470,7 @@ font-size: 25px;
   
 }
 
-#contact p{
+#contact h3{
     font-size: 20px;
     margin-bottom: 20px;
     
@@ -482,6 +482,14 @@ font-size: 25px;
     font-weight: 300;
     margin-bottom: 10px;
 }
+    
+#contact p span{
+   
+    font-size: 12px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
 
 .contact-acc{
  display: inline-block;
